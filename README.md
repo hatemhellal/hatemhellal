@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatem Hellal</h1>
-<h3 align="center">I am a data scientist</h3>
+<h3 align="center">A passionate Data Scientist from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatemhellal&label=Profile%20views&color=0e75b6&style=flat" alt="hatemhellal" /> </p>
 
